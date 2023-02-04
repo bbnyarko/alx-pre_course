@@ -1,2 +1,2 @@
 Repo session
-An insightful collaboration with great mentors
+An insightful collaboration with great mentors.
